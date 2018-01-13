@@ -1,0 +1,2 @@
+# localstorage
+Utilização simples 
